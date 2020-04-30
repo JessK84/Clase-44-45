@@ -128,16 +128,7 @@ const getNextPalindrome = number =>{
 
 }
 
-// const getRange = (numberA, numberB, inclusive = true) => {
-//     let range = [];
-//     if (inclusive) {
-//         range.push(numberA);
-//         for (let i = numberA; i < numberB; i++) {
-//             range.push(i + 1);
-//         }
-//     }
-//     return range;
-// }
+
 
 
 
